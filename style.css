@@ -122,4 +122,13 @@ nav .btn {
         gap: 20px;
         margin-right: 3.2rem;
     }
+
+    .coin {
+        padding: 14px 20px;
+
+    }
+    
+    .coin img {
+        width: 20px;
+    }
 }
